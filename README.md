@@ -6,7 +6,7 @@
 
 To run the application with docker:
 ```
-docker-compose up
+sudo docker-compose up
 ```
 
 To execute the application with Flask:
